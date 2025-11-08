@@ -1,15 +1,15 @@
 {
-  "name": "stupid-pub-sub",
+  "name": "tiny-pub-sub",
   "type": "module",
   "version": "1.0.3",
   "packageManager": "pnpm@10.17.1",
   "description": "_description_",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Salvador Cardona",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SalvadorCardona/SimplePubSub"
+    "url": "git+https://github.com/SalvadorCardona/TinyPubSub"
   },
   "keywords": [],
   "sideEffects": false,

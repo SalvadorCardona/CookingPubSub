@@ -1,4 +1,4 @@
-# Simple PubSub
+# PubSub  for Vanilla, React, VueJS, Angular
 
 A lightweight and type-safe publish/subscribe library for JavaScript and TypeScript.
 
@@ -42,10 +42,6 @@ import { createPubSub } from 'simple-pubsub'
 ```
 #### Creating an instance
 ```typescript
-// Without typing
-const pubsub = createPubSub()
-
-// With TypeScript typing
 interface UserData {
   id: number
   name: string
@@ -116,8 +112,6 @@ The `createChannelPubSub` allows you to manage multiple communication channels.
 ```typescript
 import { createChannelPubSub } from 'simple-pubsub'
 ```
-
-#### Creating an instance
 
 #### Creating an instance
 
